@@ -1,0 +1,24 @@
+{
+  "name": "pizza-web-app",
+  "version": "1.0.0",
+  "description": "Business management  program designed to manage clients, service, and ording process.",
+  "main": "index.php",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/website-company/bms.git"
+  },
+  "keywords": [
+    "business",
+    "management",
+    "system"
+  ],
+  "author": "Michael Giammattei - Websit-Company.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/website-company/bms/issues"
+  },
+  "homepage": "https://github.com/website-company/bms#readme"
+}
